@@ -1,9 +1,7 @@
 <!DOCTYPE html>
-<html>
+
    <head>
-       <title>
-        FLIPKART
-       </title>
+       <title>FLIPKART</title>
    </head>
    <body style="background-color: blanchedalmond;">
      
